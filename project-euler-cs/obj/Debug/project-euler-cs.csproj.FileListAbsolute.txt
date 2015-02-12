@@ -1,1 +1,6 @@
 c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\bin\Debug\project-euler-cs.exe.config
+c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\bin\Debug\project-euler-cs.exe
+c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\bin\Debug\project-euler-cs.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\obj\Debug\project-euler-cs.csprojResolveAssemblyReference.cache
+c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\obj\Debug\project-euler-cs.exe
+c:\users\bryan\documents\visual studio 2013\Projects\project-euler-cs\project-euler-cs\obj\Debug\project-euler-cs.pdb
