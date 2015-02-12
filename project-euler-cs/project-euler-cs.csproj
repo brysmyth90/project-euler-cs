@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Euler_1.cs" />
     <Compile Include="Euler_2.cs" />
+    <Compile Include="Euler_3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
