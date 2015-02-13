@@ -48,6 +48,7 @@
     <Compile Include="Euler_5.cs" />
     <Compile Include="Euler_6.cs" />
     <Compile Include="Euler_7.cs" />
+    <Compile Include="Euler_8.cs" />
     <Compile Include="PrimeHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -55,6 +56,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="prob8.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
