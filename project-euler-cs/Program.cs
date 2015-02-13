@@ -10,8 +10,8 @@ namespace project_euler_cs
     {
         static void Main(string[] args)
         {
-            Euler_5 euler_5 = new Euler_5();
-            euler_5.euler5();
+            Euler_6 euler_6 = new Euler_6();
+            euler_6.euler6();
         }
     }
 }
